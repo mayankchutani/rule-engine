@@ -1,9 +1,5 @@
-#
-# Copyright 2016 Woocation Technologies
-#
-
-FROM woocation/anaconda3
-MAINTAINER Woocation
+FROM continuumio/anaconda3:4.4.0
+MAINTAINER Mayank Chutani
 
 RUN apt-get update
 

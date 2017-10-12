@@ -1,6 +1,6 @@
 # Rule Engine
 
-Woocation rule engine is a generic application to store business rules, and to be able to search for rules according to the data passed to it.
+Rule engine is a generic application to store business rules, and to be able to search for rules according to the data passed to it.
 It is capable of searching as a partial match if exact match is not available.
 
 ### Rule
